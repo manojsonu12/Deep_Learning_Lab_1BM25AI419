@@ -1,4 +1,4 @@
-# Deep Learning Lab_USN
+# Deep Learning Lab_1BM25AI419
 
 ## Self Learning Lab Program 1
 
