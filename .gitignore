@@ -1,4 +1,9 @@
 .venv/
+venv/
+__pycache__/
+*.pyc
+.keras/
+.venv/
 __pycache__/
 *.pyc
 
