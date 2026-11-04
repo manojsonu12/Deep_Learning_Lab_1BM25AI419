@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+# Dataset cache
+.cache/
+data/
+
+# Model files
+*.h5
+*.keras
+
+# Temporary files
+*.tmp

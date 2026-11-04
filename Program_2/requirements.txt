@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+datasets
+huggingface_hub
+tensorflow
+scikit-learn
+seaborn
+Pillow
